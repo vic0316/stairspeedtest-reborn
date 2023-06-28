@@ -201,5 +201,4 @@ jobs:
       if: startsWith(github.ref, 'refs/tags/')
       with:
         files: stairspeedtest_reborn_win32.tar.gz
-        draft: true
- 
+        draft: true 
